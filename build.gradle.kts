@@ -23,7 +23,7 @@ repositories {
 }
 
 dependencies {
-    annotationProcessor("info.picocli:picocli-codegen:4.1.4")
+    annotationProcessor("info.picocli:picocli-codegen:4.5.2")
 
     implementation("com.fasterxml.jackson.core:jackson-databind:2.10.2")
     implementation("org.apache.commons:commons-collections4:4.4")
