@@ -44,7 +44,7 @@ dependencies {
     implementation("info.picocli:picocli:4.1.4")
     implementation("commons-io:commons-io:2.6")
 
-    testImplementation("junit:junit:4.12")
+    testImplementation("junit:junit:4.13.2")
 }
 
 val sourceJar by tasks.creating(Jar::class) {
