@@ -29,7 +29,7 @@ dependencies {
     implementation("org.apache.commons:commons-collections4:4.4")
     implementation("io.qameta.allure:allure-model:2.13.1")
 
-    implementation("org.slf4j:slf4j-log4j12:1.7.25")
+    implementation("org.slf4j:slf4j-log4j12:1.7.36")
     implementation("org.slf4j:slf4j-simple:1.7.25")
     implementation("commons-logging:commons-logging:1.2")
 
